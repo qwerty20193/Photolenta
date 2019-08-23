@@ -4,23 +4,13 @@ body, html{
 }
 
 
-body, html{
+body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
-#web{
-	background-color: red;
-	color: white;
-	border: 2px solid red;
-	width: 500px;
-}
 
 #app{
 	width: 500px;
-}
-
-input, #web{
-	box-shadow: 0 0 7px rgba(0,0,0,0.5);
 }
